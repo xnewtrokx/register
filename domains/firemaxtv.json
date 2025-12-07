@@ -2,9 +2,9 @@
   "owner": {
     "username": "xnewtrokx"
   },
-  "domain": "firemaxtv.is-a.dev",
-  "records": {
-    "A": ["185.27.134.197"]
+  "record": {
+    "A": ["185.27.134.135"]
   }
 }
+
 
