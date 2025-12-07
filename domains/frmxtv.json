@@ -2,10 +2,7 @@
   "owner": {
     "username": "xnewtrokx"
   },
-  "records": {
-    "A": ["185.27.134.135"],
-    "CNAME": {
-      "c3bb9858aea9e41fccc64f19c1729760": "ns1.byet.org"
-    }
+  "record": {
+    "A": ["185.27.134.135"]
   }
 }
