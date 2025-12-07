@@ -1,8 +1,10 @@
 {
   "owner": {
-    "username": "githubKullanıcıAdın"
+    "username": "xnewtrokx"
   },
-  "record": {
-    "A": ["185.27.134.215"]
+  "domain": "firemaxtv.is-a.dev",
+  "records": {
+    "A": ["185.27.134.197"]
   }
 }
+
